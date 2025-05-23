@@ -90,4 +90,23 @@
 ---
 
 ## 📁 Folder Structure
+PhishGuard AI/
+├── extension/
+│ ├── background.ts
+│ ├── contentScript.ts
+│ └── popup/
+├── dashboard/
+│ ├── src/
+│ │ ├── components/
+│ │ ├── pages/
+│ │ ├── hooks/
+│ │ ├── context/
+│ │ └── utils/
+
+## 🟢 Live Dashboard
+
+Access the PhishGuard AI dashboard here: [https://phishguard-ai.vercel.app](https://phishguard-ai.vercel.app)
+
+This is the hosted version of the React-based admin dashboard for real-time threat monitoring and configuration.
+
 
